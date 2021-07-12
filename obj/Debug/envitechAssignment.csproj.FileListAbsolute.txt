@@ -1,0 +1,9 @@
+C:\Users\שלומי\source\repos\envitechAssignment\envitechAssignment\obj\Debug\envitechAssignment.csproj.CoreCompileInputs.cache
+C:\Users\שלומי\source\repos\envitechAssignment\envitechAssignment\bin\Debug\envitechAssignment.exe.config
+C:\Users\שלומי\source\repos\envitechAssignment\envitechAssignment\bin\Debug\envitechAssignment.exe
+C:\Users\שלומי\source\repos\envitechAssignment\envitechAssignment\bin\Debug\envitechAssignment.pdb
+C:\Users\שלומי\source\repos\envitechAssignment\envitechAssignment\obj\Debug\envitechAssignment.exe
+C:\Users\שלומי\source\repos\envitechAssignment\envitechAssignment\obj\Debug\envitechAssignment.pdb
+C:\Users\שלומי\source\repos\envitechAssignment\envitechAssignment\obj\Debug\envitechAssignment.Form1.resources
+C:\Users\שלומי\source\repos\envitechAssignment\envitechAssignment\obj\Debug\envitechAssignment.csproj.GenerateResource.cache
+C:\Users\שלומי\source\repos\envitechAssignment\envitechAssignment\obj\Debug\envitechAssignment.csprojResolveAssemblyReference.cache
